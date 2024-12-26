@@ -59,11 +59,11 @@ Make sure you have the following installed:
 ▎Installation
 
 1. Clone the repository:
-      git clone https://github.com/honeydysh/socket-connection-java.git
+      git clone https://github.com/honeydysh/Java-Socket-Project.git
    
 
 2. Navigate to the project directory:
-      cd socket-connection-java
+      cd Socket Connection final
    
 
 ▎Usage
@@ -80,7 +80,7 @@ Make sure you have the following installed:
       java Server
    
 
-4. The server will start and listen for incoming connections on port 12345.
+4. The server will start and listen for incoming connections on port 1234.
 
 ▎Running the Client
 
